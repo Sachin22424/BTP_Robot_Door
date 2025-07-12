@@ -320,7 +320,3 @@ Feel free to extend this implementation with:
 - Additional door states
 - Visualization tools
 - Parameter tuning interfaces
-
-## 📄 License
-
-MIT License - Feel free to use and modify for educational purposes.
